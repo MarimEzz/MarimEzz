@@ -1,4 +1,4 @@
-### # 💫 About Me:
+### 💫 About Me:
 Hi! i am mariam a junior front-end developer, With a degree from Modern Academy of computer science and a recent graduate from ITI 4-Month Full-Stack .Net Development track, I possess a strong foundation in web development and a passion for creating user-friendly and visually appealing websites. Additionally, my experience in UI/UX design has allowed me to gain valuable insights into user behavior and preferences.<br><br>My skills include HTML, CSS, JavaScript (ES6), Bootstrap, TypeScript, and Angular framework for programming. Additionally, I have experience in UI/UX design using Adobe XD and Figma, which has allowed me to gain valuable insights into user behavior and preferences.<br><br>I'm excited to continue growing my skills and take on new challenges in the field. I'm always eager to learn and take on new challenges, and I'm ready to take my skills to the next level!<br><br>If you're looking for a hardworking and dedicated developer who is always eager to learn and take on new challenges, I would love to connect with you!
 
 
