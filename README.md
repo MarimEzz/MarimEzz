@@ -1,5 +1,5 @@
 #### Hi! i'm Mariam
-![I'm a Junior Frontend Developer](https://github.com/MarimEzz/MarimEzz/blob/main/download-removebg-preview.png)
+(https://github.com/MarimEzz/MarimEzz/blob/main/20230610093551_%5Bfpdl.in%5D_web-development-word-concepts-blue-banner_106317-30883_large.jpg)
 
 A junior front-end developer, With a degree from Modern Academy of computer science and a recent graduate from ITI 4-Month Full-Stack .Net Development track, I possess a strong foundation in web development and a passion for creating user-friendly and visually appealing websites. Additionally, my experience in UI/UX design has allowed me to gain valuable insights into user behavior and preferences.
 
