@@ -1,5 +1,5 @@
 #### Hi! i'm Mariam
-![I'm a Junior Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a Junior Frontend Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/MarimEzz/MarimEzz/blob/main/download-removebg-preview.png))
 
 A junior front-end developer, With a degree from Modern Academy of computer science and a recent graduate from ITI 4-Month Full-Stack .Net Development track, I possess a strong foundation in web development and a passion for creating user-friendly and visually appealing websites. Additionally, my experience in UI/UX design has allowed me to gain valuable insights into user behavior and preferences.
 
