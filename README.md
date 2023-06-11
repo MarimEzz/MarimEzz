@@ -1,4 +1,4 @@
-![Hi! i'm Mariam](https://github.com/MarimEzz/MarimEzz/blob/main/20230610092426_%5Bfpdl.in%5D_front-end-developer-typographic-header_277904-11487_medium.jpg)
+![Hi! i'm Mariam](https://github.com/MarimEzz/MarimEzz/blob/main/20230610092426_%5Bfpdl.in%5D_front-end-developer-typographic-header_277904-11487_large.jpg)
 
 # Hi! i'm Mariam👋
 
