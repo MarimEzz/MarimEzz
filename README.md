@@ -16,4 +16,4 @@ I'm excited to continue growing my skills and take on new challenges in the fiel
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarimEzz&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarimEzz&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=MarimEzz&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![](https://visitcount.itsvg.in/api?id=MarimEzz&label=Profile%20Views&color=2&icon=5&pretty=true)]
+![](https://visitcount.itsvg.in/api?id=MarimEzz&label=Profile%20Views&color=2&icon=5&pretty=true)
