@@ -15,4 +15,6 @@ I'm excited to continue growing my skills and take on new challenges in the fiel
 # GitHub Stats📊
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarimEzz&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarimEzz&theme=default&hide_border=false&include_all_commits=false&count_private=false"  /></p>
 <br/>
-[![](https://visitcount.itsvg.in/api?id=MarimEzz&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MarimEzz&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
