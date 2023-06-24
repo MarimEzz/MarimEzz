@@ -14,6 +14,5 @@ I'm excited to continue growing my skills and take on new challenges in the fiel
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/marimezzaldin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marimezz) 
 # GitHub Stats📊
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarimEzz&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarimEzz&theme=default&hide_border=false&include_all_commits=false&count_private=false"  /></p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarimEzz&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=MarimEzz&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br/>
 ![](https://visitcount.itsvg.in/api?id=MarimEzz&label=Profile%20Views&color=2&icon=5&pretty=true)
