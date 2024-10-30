@@ -1,21 +1,51 @@
-![Hi! i'm Mariam](https://github.com/MarimEzz/MarimEzz/blob/main/20230610092426_%5Bfpdl.in%5D_front-end-developer-typographic-header_277904-11487_large.jpg)
+![Hi! i'm Mariam](https://github.com/MarimEzz/MarimEzz/blob/main/banner.jpg)
 
-# Hi! i'm Mariam👋
+# Hey There!👋
 
-A junior front-end developer, With a degree of computer science and a recent graduate from ITI 4-Month Full-Stack .Net Development track, I possess a strong foundation in web development and a passion for creating user-friendly and visually appealing websites. Additionally, my experience in UI/UX design has allowed me to gain valuable insights into user behavior and preferences.
+<table >
+  <tr>
+    <td align="center">
+       <p>
+        I’m Marim Ezz, the creator behind the joyful pixels and vibrant designs you see here. With a passion for blending colors and code, I bring a playful spirit to every project. I believe in making every pixel count—and making it fabulous! 🎨✨<br><br>
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MarimEzz/MarimEzz/blob/main/girl%20coding.gif" width="300" height="300"/>
+      <img src="https://visitcount.itsvg.in/api?id=MarimEzz&label=Profile%20Views&color=1&icon=5&pretty=true" />
+     </td>
+  </tr>
+</table>
 
-I'm excited to continue growing my skills and take on new challenges in the field. I'm always eager to learn and take on new challenges, and I'm ready to take my skills to the next level!
+    <img src="https://media.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif" width="200" />
+      I bring an artistic touch while maintaining high standards of functionality and professionalism.
+I blend imagination with precision, crafting digital experiences that don’t just work—they wow. 
 
-# Languages and Tools👩‍💻
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
-<img src="https://github.com/MarimEzz/MarimEzz/blob/main/Website%20Creator.gif" width="400">
+# Find me around the web <img width="80" align="center" src="https://github.com/MarimEzz/MarimEzz/blob/main/duck.gif" alt="duck"/> <img width="80" align="left" src="https://github.com/MarimEzz/MarimEzz/blob/main/duck.gif" alt="duck"/> 
 
-# Find me around the web🌍
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/marimezzaldin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marimezz)
 
-# GitHub Stats📊
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarimEzz&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarimEzz&theme=default&hide_border=false&include_all_commits=false&count_private=false"/></p><br>
+<a href="https://www.linkedin.com/in/marimezz/" target="blank"><img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="48" width="48"/></a>
+<a href="mailto:marimezzaldin670@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"  /></a>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MarimEzz&label=Profile%20Views&color=1&icon=5&pretty=true" />
+# Languages and Tools <img width="80" align="center" src="https://github.com/MarimEzz/MarimEzz/blob/main/white%20dragon.gif" alt="dragonwhite"/>  <img width="80" align="left" src="https://github.com/MarimEzz/MarimEzz/blob/main/white%20dragon.gif" alt="dragonwhite"/> 
+
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,html,pug,css,sass,less,bootstrap,tailwind,js,ts,angular,materialui,postman,firebase,git,gulp,xd,figma,ps&perline=20" />
+</p>
+
+# GitHub Stats <img width="80" align="center" src="https://github.com/MarimEzz/MarimEzz/blob/main/black%20dragon.gif" alt="dragonblack"/>  <img width="80" align="left" src="https://github.com/MarimEzz/MarimEzz/blob/main/black%20dragon.gif" alt="dragonblack"/> 
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarimEzz&border_radius=4.2&card_width=823&currStreakNum=536080&fire=FFBE55&ring=FFBE55&currStreakLabel=FFBE55&sideNums=536080&sideLabels=FFBE55&dates=536080&stroke=FFBE55" alt="GitHub Streak" /></a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=MarimEzz&show_icons=true&include_all_commits=true&title_color=FFBE55&text_color=536080&icon_color=FFBE55&hide_border=true" alt="MarimEzz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarimEzz&layout=compact&title_color=536080&text_color=536080&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+# Favorite Repo
+<a href="https://github.com/MarimEzz/CubeGame"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarimEzz&repo=CubeGame" alt="Readme Card">
+    <img src="https://github.com/MarimEzz/CubeGame/blob/main/screenshots/filter%20by%20genre.png" width="200" height="150"/>
+</a><br>
+<a href="https://github.com/MarimEzz/ModernSuperjetServices">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarimEzz&repo=ModernSuperjetServices" alt="Readme Card">
+    <img src="https://github.com/MarimEzz/ModernSuperjetServices/blob/main/Details/2022-12-03-19-33-20.png" width="200" height="150"/>
 </a>
+
